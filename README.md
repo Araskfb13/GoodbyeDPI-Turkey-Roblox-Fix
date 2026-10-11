@@ -1,21 +1,39 @@
-# GoodbyeDPI-Turkey-Roblox-Fix
-### Fixes Roblox asset &amp; image loading issues for GoodbyeDPI Turkey | GoodbyeDPI Roblox görsel yükleme hatası çözümü
+# 🎮 GoodbyeDPI Turkey - Roblox Asset & Image Fix 💻
 
-### Kaspersky Antivirüsü Hakkında
-### Kaspersky isimli antivirüs yazılımı Rus hükümetiyle olan anlaşmasından dolayı GoodbyeDPI'ın çalışmasına engel olmaktadır. Kaspersky isimli yazılımı kullanıyorsanız, kullandıysanız veya devre dışı halde bile olsa bilgisayarınızda bulunuyorsa lütfen tamamen kaldırın. Bunu yapmadığınız taktirde GoodbyeDPI ### çalışmayacaktır. ###Kaspersky yerine alternatif antivirüs yazılımları tercih edebilir ya da Windows Defender kullanabilirsiniz.
+GoodbyeDPI Turkey kullanırken Roblox'ta yaşanan menü, simge, avatar ve kapak görsellerinin (CDN/Asset) yüklenmeme sorununu gideren özelleştirilmiş düzeltme scripti.
 
-### Bu uygulama, Türkiye'de bazı internet servis sağlayıcılarının DNS değişikliğine izin vermemesi sebebiyle, bu durumu bertaraf etmek için asıl proje olan (https://github.com/ValdikSS/GoodbyeDPI) GoodbyeDPI'ın düzenlenmiş bir versiyonudur. Bu yazılım, birçok ISS'da (İnternet Servis Sağlayıcısı) bulunan ve belirli web ### sitelerine erişimi engelleyen "Derin Paket İnceleme" (DPI) sistemlerini atlatmak için tasarlanmıştır. Optik ayırıcı veya port yansıtma (Pasif DPI) kullanarak bağlanan ve herhangi bir veriyi engellemeyen, ancak istenen hedeften daha hızlı yanıt veren DPI'yi ve sıralı olarak bağlanan Aktif DPI'yi işler. Bu uygulama ### kesinlikle bir VPN değildir ve oyunlarda/genel internet kullanımında bir hız değişikliğine sebep olmayacaktır.
+---
 
-### (Hazır GoodByeDPI-Turkey dosyaları: https://github.com/cagritaskn/GoodbyeDPI-Turkey)
+## 🛡️ Antivirüs Yazılımları Hakkında (Önemli)
 
-### GoodbyeDPI'ın Türkiye fork'unu kullanmak için iki yöntem bulunmaktadır.
+**Kaspersky** ve benzeri gelişmiş antivirüs yazılımları, kendi ağ tarama/paket inceleme mekanizmaları nedeniyle GoodbyeDPI'ın çalışmasına engel olabilmektedir. 
 
-### Hizmet kurarak kullanma: Yalnızca bir kez hizmeti kurup ardından elle herhangi bir şey çalıştırmaya gerek kalmaksızın bilgisayarınız her yeniden başlatıldığında otomatik olarak çalışır.
-### Batch dosyası ile kullanma: batch dosyası ile kullanmada her defasında elle batch dosyasını başlatarak kullanmanız gerekir (batch penceresi kapatıldığında GoodbyeDPI kullanımına son verilir).
+Eğer Roblox görselleri hâlâ yüklenmiyorsa veya GoodbyeDPI çalışmıyorsa:
+* Antivirüs yazılımınızın ağ koruması/SSL tarama ayarlarını devre dışı bırakın veya geçici olarak kaldırın.
+* Alternatif olarak Windows Defender kullanabilirsiniz.
 
-### Windows 7, 8, 8.1, 10 veya 11 işletim sistemlerinde yönetici olarak çalıştırmanız mecburidir.
+---
 
+## ℹ️ Proje Hakkında
 
-# YASAL UYARI!!!!  !ÖNEMLİ!
+Bu uygulama, Türkiye'de bazı internet servis sağlayıcılarının (ISS) uyguladığı "Derin Paket İnceleme" (DPI) sistemlerini ve DNS engellemelerini bertaraf etmek amacıyla geliştirilen [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ve [cagritaskn/GoodbyeDPI-Turkey](https://github.com/cagritaskn/GoodbyeDPI-Turkey) projelerinin düzenlenmiş bir versiyonudur.
 
-## Bu uygulamanın kullanımından doğan her türlü yasal sorumluluk kullanan kişiye aittir. Uygulama yalnızca eğitim ve araştırma amaçları ile yazılmış ve düzenlenmiş olup; bu uygulamayı bu şartlar altında kullanmak ya da kullanmamak kullanıcının kendi seçimidir. Açık kaynak kodlarının paylaşıldığı bu platformdaki ### düzenlenmiş bu proje, bilgi paylaşımı ve kodlama eğitimi amaçları ile yazılmış ve düzenlenmiştir.
+* **VPN değildir:** Bağlantı hızınızı düşürmez, ping değerlerinizi etkilemez.
+* **Sadece DPI paket yönlendirmesini düzenler.**
+
+---
+
+## 🚀 Kullanım Yöntemleri
+
+> **⚠️ ÖNEMLİ:** Windows 7, 8, 8.1, 10 veya 11 işletim sistemlerinde dosyayı **Sağ Tık --> Yönetici Olarak Çalıştır** seçeneği ile başlatmanız mecburidir.
+
+1. **Hizmet Kurarak Kullanma:** Servisi bir kez kurarsınız, bilgisayar her açıldığında arka planda otomatik çalışır.
+2. **Batch File (.bat) ile Kullanma:** Kullanmak istediğinizde elle çalıştırırsınız. Siyah pencereyi kapattığınızda GoodbyeDPI kullanımı sonlanır.
+
+---
+
+## ⚖️ YASAL UYARI / DISCLAIMER
+
+> **ÖNEMLİ NOT:** Bu yazılım ve scriptler yalnızca **eğitim, araştırma ve erişim sorunlarını giderme** amacıyla açık kaynak olarak paylaşılmıştır. 
+> 
+> Bu uygulamanın kullanımından doğabilecek her türlü yasal ve teknik sorumluluk tamamen **kullanıcının kendisine aittir**. Bu projede kullanılan temel bileşenler açık kaynak kodlu lisanslara dayanmaktadır ve Roblox veya GoodbyeDPI üreticileriyle resmi bir bağı yoktur.
