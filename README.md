@@ -1,6 +1,6 @@
 # 🎮 GoodbyeDPI Turkey - Roblox Asset & Image Fix 💻
 
-GoodbyeDPI Turkey kullanırken Roblox'ta yaşanan menü, simge, avatar ve kapak görsellerinin (CDN/Asset) yüklenmeme sorununu gideren özelleştirilmiş düzeltme scripti.
+GoodbyeDPI Turkey kullanırken Roblox'ta yaşanan menü, simge, avatar ve kapak görsellerinin (CDN/Asset) yüklenmeme sorununu gideren özelleştirilmiş düzeltme scripti. Diğer uygulamalar içinde kullanılabilir.
 
 ---
 
