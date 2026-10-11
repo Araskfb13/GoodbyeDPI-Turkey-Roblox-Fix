@@ -37,3 +37,6 @@ Bu uygulama, Türkiye'de bazı internet servis sağlayıcılarının (ISS) uygul
 > **ÖNEMLİ NOT:** Bu yazılım ve scriptler yalnızca **eğitim, araştırma ve erişim sorunlarını giderme** amacıyla açık kaynak olarak paylaşılmıştır. 
 > 
 > Bu uygulamanın kullanımından doğabilecek her türlü yasal ve teknik sorumluluk tamamen **kullanıcının kendisine aittir**. Bu projede kullanılan temel bileşenler açık kaynak kodlu lisanslara dayanmaktadır ve Roblox veya GoodbyeDPI üreticileriyle resmi bir bağı yoktur.
+
+## 🙏 Credits
+* GoodbyeDPI Turkey Projesi & orjinal GoodByeDpi yapımcısı. (Herhangi bir bağımız yoktur. Sadece temel uygulama bu geliştiriciler tarafından geliştirilmiştir.)
