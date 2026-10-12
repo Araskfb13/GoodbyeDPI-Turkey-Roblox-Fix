@@ -7,10 +7,9 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 2.0.0   | :white_check_mark: |
-| 1.9.0   | :x:                |
-| 1.8.0   | :white_check_mark: |
-| < 1.8   | :x:                |
+| 1.0.1   | :white_check_mark: |
+| 1.0.0   | :white_check_mark: |
+| < 1.0   | :x:                |
 
 Reporting a Vulnerability
 We take the security and stability of this project seriously. If you discover a security vulnerability or a potential leak/exploit related to DPI bypass mechanisms, please report it responsibly.
