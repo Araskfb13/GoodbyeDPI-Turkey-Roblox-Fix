@@ -41,5 +41,5 @@ Bu uygulama, Türkiye'de bazı internet servis sağlayıcılarının (ISS) uygul
 ## 🙏 Credits
 * GoodbyeDPI Turkey Projesi & orjinal GoodByeDpi yapımcısı. (Herhangi bir bağımız yoktur. Sadece temel uygulama bu geliştiriciler tarafından geliştirilmiştir.)
 * This project is licensed under the **MIT License**.
-* Based on / modified from [GoodbyeDPI-Turkey](https://github.com/cagritaskn/GoodbyeDPI-Turkey) (Licensed under **Apache License 2.0**).
+* Based on / modified from [GoodbyeDPI-Turkey](https://github.com/cagritaskn/GoodbyeDPI-Turkey).
 * Original GoodbyeDPI core by [ValdikSS](https://github.com/ValdikSS/GoodbyeDPI).
